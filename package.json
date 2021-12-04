@@ -1,0 +1,28 @@
+{
+  "name": "socket-node",
+  "version": "0.1.0",
+  "description": "Websocket packer",
+  "main": "index.js",
+  "exports": {
+    "require": "./index.js"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmcsr/socket-node-js.git"
+  },
+  "keywords": [
+    "socket",
+    "websocket"
+  ],
+  "author": "zyxkad <zyxkad@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/kmcsr/socket-node-js/issues"
+  },
+  "homepage": "https://github.com/kmcsr/socket-node-js#readme",
+  "dependencies": {
+    "ws": "^8.3.0"
+  }
+}
